@@ -1,4 +1,7 @@
+![banner](https://github.com/SergioBrito47/sistema_gestao_industria/blob/main/Copilot_20250708_193057.png)
+
 ![banner](https://github.com/SergioBrito47/sistema_gestao_industria/blob/main/Gemini_Generated_Image_da7ud0da7ud0da7u.png)
+
 # Sistema de gestão Indústria
 
 Projeto Java: Sistema de Gestão Industrial
