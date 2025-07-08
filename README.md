@@ -223,6 +223,4 @@ Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE]
 LinkedIn | GitHub
 
 
-📄 Licença
 
-Este projeto está licenciado sob a MIT License – veja o arquivo LICENSE para mais detalhes.
